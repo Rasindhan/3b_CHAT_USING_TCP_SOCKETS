@@ -1,4 +1,3 @@
-![Screenshot 2025-03-16 162152](https://github.com/user-attachments/assets/d5779c7f-7190-49f6-a18f-37b016f257da)# 3b.CREATION FOR CHAT USING TCP SOCKETS
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
